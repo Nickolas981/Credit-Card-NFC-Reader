@@ -1,1 +1,2 @@
-include ':app', ':creditCardNfcReader'
+include ':app'
+rootProject.name='CC-NFC-Reader'
